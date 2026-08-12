@@ -1,0 +1,406 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "hire": "Contratarme"
+  },
+  "footer": {
+    "tagline": "Desarrollador Full-Stack creando experiencias digitales rápidas, hermosas y accesibles.",
+    "navigation": "Navegación",
+    "contact": "Contacto",
+    "location": "Ubicado en San Francisco, CA",
+    "availability": "Abierto a trabajos remotos en todo el mundo",
+    "copyright": "© 2025 {name}. Todos los derechos reservados."
+  },
+  "hero": {
+    "availability_sub": "Abierto a oportunidades",
+    "availability_title": "Disponible para trabajar",
+    "badge": "Bienvenido a mi portafolio",
+    "cta_primary": "Ver mi trabajo",
+    "cta_secondary": "Ponte en contacto",
+    "find_me": "Encuéntrame en",
+    "headline1": "Diseñador &",
+    "headline2": "Desarrollador",
+    "stats_label": "Proyectos completados",
+    "subhead": "Creo experiencias digitales elegantes a través del diseño reflexivo y código limpio."
+  },
+  "cta": {
+    "badge": "¿Listo para empezar?",
+    "body": "¿Tienes un proyecto u oportunidad? Siempre me interesa colaborar en trabajos significativos.",
+    "heading": "Construyamos algo extraordinario",
+    "primary": "Iniciar una conversación",
+    "secondary": "Explorar proyectos"
+  },
+  "about": {
+    "bio1": "Soy diseñador y desarrollador apasionado por crear experiencias digitales intuitivas. Con enfoque en código limpio y diseño reflexivo, construyo productos que los usuarios aman.",
+    "bio2": "Especializado en tecnologías web modernas y diseño centrado en el usuario, transformo ideas en soluciones pulidas y funcionales que equilibran estética y rendimiento.",
+    "bio3": "Cuando no estoy diseñando o programando, me encontrarás explorando nuevas herramientas, contribuyendo a código abierto o compartiendo conocimiento con la comunidad.",
+    "bioAvailability": "Actualmente disponible para oportunidades freelance y a tiempo completo.",
+    "ctaHeading": "Trabajemos juntos",
+    "ctaPrimary": "Ponte en contacto",
+    "ctaSecondary": "Ver mi trabajo",
+    "ctaSubtitle": "¿Tienes un proyecto en mente? Me encantaría saber más.",
+    "experienceEyebrow": "Trayectoria profesional",
+    "experienceHeading": "Experiencia",
+    "eyebrow": "Acerca de mí",
+    "heroHeading": "Diseñador & Desarrollador",
+    "heroSubtitle": "Creando productos digitales hermosos y funcionales con tecnologías modernas.",
+    "skillsEyebrow": "Qué hago",
+    "skillsHeading": "Habilidades y Experiencia",
+    "skillsSubtitle": "Una combinación de pensamiento de diseño y competencia técnica."
+  },
+  "contact": {
+    "availability": {
+      "description": "Estoy activamente abierto a nuevos proyectos y colaboraciones.",
+      "status": "Disponible ahora"
+    },
+    "badge": "Ponte en contacto",
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "footer": "¿Aún tienes preguntas? Contáctame directamente.",
+      "heading": "Preguntas Frecuentes",
+      "subheading": "Encuentra respuestas a consultas comunes."
+    },
+    "form": {
+      "heading": "Envíame un mensaje",
+      "subheading": "Te responderé dentro de 24 horas."
+    },
+    "hero": {
+      "subtitle": "Creemos algo increíble juntos.",
+      "title": "Conectemos"
+    },
+    "methods": {
+      "heading": "Otras formas de contactarme"
+    },
+    "social": {
+      "heading": "Sígueme"
+    }
+  },
+  "projects": {
+    "card": {
+      "featured": "Destacado",
+      "githubLabel": "Código fuente",
+      "imageAlt": "Vista previa del proyecto",
+      "live": "Ver en vivo",
+      "liveLabel": "Demo en vivo",
+      "source": "GitHub"
+    },
+    "case_study": "Ver caso de estudio",
+    "cta": {
+      "primary": "Iniciar un proyecto",
+      "secondary": "Más información",
+      "subtitle": "¿Listo para hacer realidad tu visión? Creemos algo extraordinario juntos.",
+      "title": "Trabajemos juntos"
+    },
+    "eyebrow": "Trabajos destacados",
+    "filter": {
+      "ariaLabel": "Filtrar proyectos por categoría"
+    },
+    "grid": {
+      "empty": "No se encontraron proyectos. Intenta ajustar tus filtros."
+    },
+    "heading": "Proyectos seleccionados",
+    "hero": {
+      "eyebrow": "Portafolio",
+      "subtitle": "Una colección de productos digitales y experiencias que he diseñado y desarrollado.",
+      "title": "Trabajo que habla"
+    },
+    "view_all": "Ver todos los proyectos"
+  },
+  "testimonials": {
+    "eyebrow": "Prueba social",
+    "heading": "Amado por clientes"
+  },
+  "values": {
+    "body": "Creo en el diseño reflexivo, código limpio y asociaciones construidas sobre confianza. Cada proyecto es una oportunidad para resolver problemas reales y superar expectativas.",
+    "cta": "Ponte en contacto",
+    "eyebrow": "Sobre mi enfoque",
+    "heading": "El oficio se encuentra con la estrategia"
+  },
+  "featured-projects": [
+    {
+      "title": "Orbit",
+      "description": "A real-time project management SaaS built with Next.js, Supabase, and Tailwind CSS. Reduced team stand-up time by 40% for early beta users.",
+      "tags": [
+        "Next.js",
+        "Supabase",
+        "TypeScript"
+      ]
+    },
+    {
+      "title": "Luminary UI",
+      "description": "An open-source component library with 60+ accessible, dark-mode-first React components. 1.2k GitHub stars in its first month.",
+      "tags": [
+        "React",
+        "Radix UI",
+        "Storybook"
+      ]
+    },
+    {
+      "title": "TrailMapper",
+      "description": "A mobile-first hiking route planner using Mapbox GL and a custom Node.js API. Handles 10k+ monthly active users.",
+      "tags": [
+        "React Native",
+        "Mapbox",
+        "Node.js"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "TypeScript",
+      "desc": "Strongly-typed, scalable application logic"
+    },
+    {
+      "name": "React & Next.js",
+      "desc": "Component-driven UIs and server-side rendering"
+    },
+    {
+      "name": "Node.js & Express",
+      "desc": "RESTful APIs and real-time WebSocket services"
+    },
+    {
+      "name": "PostgreSQL & Supabase",
+      "desc": "Relational data modeling and row-level security"
+    },
+    {
+      "name": "Tailwind CSS",
+      "desc": "Utility-first styling with a consistent design system"
+    },
+    {
+      "name": "Docker & GitHub Actions",
+      "desc": "Containerized deployments and CI/CD pipelines"
+    },
+    {
+      "name": "AWS (S3, Lambda, CloudFront)",
+      "desc": "Serverless infrastructure and CDN delivery"
+    },
+    {
+      "name": "Figma",
+      "desc": "High-fidelity prototyping and design-to-code handoff"
+    }
+  ],
+  "social-links": [
+    {
+      "platform": "GitHub",
+      "handle": "github.com/alexrivera",
+      "desc": "Open-source projects and contributions"
+    },
+    {
+      "platform": "LinkedIn",
+      "handle": "linkedin.com/in/alexrivera",
+      "desc": "Professional history and recommendations"
+    },
+    {
+      "platform": "Twitter / X",
+      "handle": "@alexrivera_dev",
+      "desc": "Dev tips, threads, and industry takes"
+    },
+    {
+      "platform": "Dev.to",
+      "handle": "dev.to/alexrivera",
+      "desc": "Long-form technical articles and tutorials"
+    }
+  ],
+  "filters": [
+    "All",
+    "Full-Stack Web",
+    "UI / UX Design",
+    "Mobile Apps",
+    "Open Source",
+    "AI & Machine Learning",
+    "Dev Tools"
+  ],
+  "projects-grid": [
+    {
+      "title": "Luminary CMS",
+      "description": "A headless content management system built for developer-first teams. Features a GraphQL API, real-time preview, and a drag-and-drop block editor.",
+      "stack": "Next.js 14, TypeScript, PostgreSQL, Prisma",
+      "tags": [
+        "Full-Stack Web",
+        "Dev Tools"
+      ]
+    },
+    {
+      "title": "Orbit Design System",
+      "description": "A comprehensive component library and Figma token system used across three SaaS products. Includes 80+ accessible components, dark/light theming, and Storybook documentation.",
+      "tags": [
+        "UI / UX Design",
+        "Open Source"
+      ]
+    },
+    {
+      "title": "PulseAI",
+      "description": "A personal finance dashboard powered by GPT-4 that categorises transactions, detects spending anomalies, and generates plain-English monthly summaries.",
+      "stack": "React, Python, FastAPI, OpenAI API",
+      "tags": [
+        "Full-Stack Web",
+        "AI & Machine Learning"
+      ]
+    },
+    {
+      "title": "Waypoint",
+      "description": "A cross-platform travel planning app for iOS and Android. Offline-first architecture with smart itinerary suggestions based on travel style.",
+      "stack": "React Native, Expo, Supabase",
+      "tags": [
+        "Mobile Apps"
+      ]
+    },
+    {
+      "title": "Codebloom CLI",
+      "description": "An open-source scaffolding tool that generates opinionated Next.js + Tailwind project structures in under 10 seconds. 1.2k GitHub stars.",
+      "tags": [
+        "Dev Tools",
+        "Open Source"
+      ]
+    },
+    {
+      "title": "Halo",
+      "description": "A real-time collaborative whiteboard for remote design sprints. WebSocket-powered canvas with sticky notes, voting, and timer widgets.",
+      "stack": "Next.js, Socket.io, Redis, Canvas API",
+      "tags": [
+        "Full-Stack Web",
+        "UI / UX Design"
+      ]
+    },
+    {
+      "title": "Spectral",
+      "description": "A music visualiser web app that renders live audio input as animated 3D waveforms using WebGL and the Web Audio API.",
+      "tags": [
+        "Open Source",
+        "UI / UX Design"
+      ]
+    },
+    {
+      "title": "NexusAuth",
+      "description": "A drop-in authentication microservice supporting OAuth 2.0, magic links, and passkeys. Packaged as a Docker image with a self-hosted dashboard.",
+      "stack": "Node.js, TypeScript, Redis",
+      "tags": [
+        "Full-Stack Web",
+        "Dev Tools"
+      ]
+    },
+    {
+      "title": "Threadline",
+      "description": "A minimal, distraction-free writing app with AI-assisted outlining and one-click export to Markdown, Notion, or Ghost.",
+      "stack": "Electron, React, OpenAI API",
+      "tags": [
+        "AI & Machine Learning",
+        "Dev Tools"
+      ]
+    }
+  ],
+  "bio": [
+    "Based in — Austin, TX (open to remote worldwide)",
+    "Available for — Freelance projects, contract roles, and select full-time opportunities",
+    "Currently exploring — Edge computing, AI-assisted UI generation, and WebGL",
+    "Outside the terminal — Specialty coffee, film photography, and long trail runs"
+  ],
+  "experience": [
+    {
+      "period": "2023 – Present",
+      "role": "Independent Consultant",
+      "desc": "Partner with early-stage startups and scale-ups to architect and ship full-stack products. Clients include a Series A fintech, a design-tool SaaS, and a climate-tech nonprofit."
+    },
+    {
+      "period": "2021 – 2023",
+      "role": "Senior Frontend Engineer at Vercel",
+      "desc": "Led the developer experience team's component library initiative, reducing onboarding time for new engineers by 40%. Contributed to the Next.js App Router documentation and example ecosystem."
+    },
+    {
+      "period": "2019 – 2021",
+      "role": "Full-Stack Developer at Fathom Agency",
+      "desc": "Built bespoke web applications for clients in media, retail, and healthcare. Delivered 20+ production projects across React, Node.js, and PostgreSQL stacks."
+    },
+    {
+      "period": "2018 – 2019",
+      "role": "Junior Developer at Pixel & Co.",
+      "desc": "First professional role. Learned the craft of shipping under pressure, writing maintainable code, and communicating clearly with non-technical stakeholders."
+    },
+    {
+      "period": "2018",
+      "role": "B.Sc. Computer Science, University of Texas at Austin",
+      "desc": "Graduated with honors. Senior thesis on procedural animation systems in browser-based environments."
+    }
+  ],
+  "skills-detailed": [
+    {
+      "category": "Frontend",
+      "tools": "React 18, Next.js 14 (App Router), TypeScript, Tailwind CSS, Framer Motion, Radix UI, Zustand"
+    },
+    {
+      "category": "Backend",
+      "tools": "Node.js, tRPC, GraphQL, REST API design, Prisma ORM, PostgreSQL, Redis, Supabase"
+    },
+    {
+      "category": "Infrastructure & DevOps",
+      "tools": "Vercel, AWS (EC2, S3, Lambda, CloudFront), Docker, GitHub Actions CI/CD, Terraform"
+    },
+    {
+      "category": "Design & Prototyping",
+      "tools": "Figma (components, auto-layout, variables), Adobe Illustrator, Spline 3D, Lottie animations"
+    },
+    {
+      "category": "Testing & Quality",
+      "tools": "Vitest, Playwright end-to-end testing, React Testing Library, Storybook, Chromatic visual regression"
+    },
+    {
+      "category": "AI & Emerging Tech",
+      "tools": "OpenAI API integration, LangChain, vector databases (Pinecone), WebGL / Three.js, Edge Runtime"
+    },
+    {
+      "category": "Soft Skills",
+      "tools": "Technical writing, async-first remote collaboration, design system governance, engineering mentorship"
+    }
+  ],
+  "contact-form": [
+    {
+      "field": "Name",
+      "placeholder": "Your full name or the name of your company"
+    },
+    {
+      "field": "Email",
+      "placeholder": "A reply-to address where I can reach you"
+    },
+    {
+      "field": "Subject",
+      "placeholder": "e.g. Freelance project, Collaboration, General inquiry"
+    },
+    {
+      "field": "Message",
+      "placeholder": "Tell me about your project, timeline, and budget (if applicable)"
+    },
+    {
+      "field": "Submit",
+      "placeholder": "Send Message"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Are you available for freelance work?",
+      "a": "Yes, I take on select freelance projects throughout the year. I'm currently available for new engagements starting Q3 2025. Reach out early to reserve a spot."
+    },
+    {
+      "q": "What types of projects do you work on?",
+      "a": "I specialise in full-stack web applications, interactive front-end experiences, and design-to-code implementations. I'm comfortable working solo or integrating with an existing team."
+    },
+    {
+      "q": "What does your typical process look like?",
+      "a": "Every project starts with a discovery call to align on goals and scope. From there I move through design, development, and a structured review phase before handoff or launch."
+    },
+    {
+      "q": "Do you work with international clients?",
+      "a": "Absolutely. I've collaborated with clients across Europe, North America, and Southeast Asia. I'm flexible with time zones and async-first communication."
+    },
+    {
+      "q": "How do you handle project pricing?",
+      "a": "Projects are scoped and quoted individually based on complexity, timeline, and deliverables. I offer both fixed-price and retainer arrangements. I'm happy to discuss what fits your budget."
+    },
+    {
+      "q": "Can I see more work than what's on the Projects page?",
+      "a": "Yes — I have additional case studies and NDA-protected work I can share privately during a call. Just mention it when you reach out."
+    }
+  ]
+}
